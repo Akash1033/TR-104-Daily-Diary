@@ -1,4 +1,4 @@
-# Day 13 – useEffect Hook
+# Day 13 –  useEffect Hook
 
 Today I started learning about the useEffect hook.
 
