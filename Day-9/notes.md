@@ -1,4 +1,4 @@
-# Day 9 – Conditional Rendering
+# Day 9 –  Conditional Rendering
 
 Today I learned how to display UI conditionally in React.
 
